@@ -9,7 +9,11 @@ Download the script via wget:
 ```bash
 wget https://raw.githubusercontent.com/wingedz/zoringdm3/main/zoringdm3
 ```
+Grant permissions:
 
+```bash
+chmod 775 zoringdm3
+```
 ## Usage
 
 Use an image:
