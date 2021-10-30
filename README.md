@@ -41,4 +41,4 @@ Please make sure to update tests as appropriate.
 This script is based on [focalgdm3](https://github.com/PRATAP-KUMAR/focalgdm3) by [PRATAP-KUMAR](https://github.com/PRATAP-KUMAR)
 
 ## License
-[GNU](https://github.com/wingedz/zoringdm3/blob/main/LICENSE)
+[GNU GPL](https://github.com/wingedz/zoringdm3/blob/main/LICENSE)
